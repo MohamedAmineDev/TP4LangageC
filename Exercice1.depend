@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1646249579 source:c:\users\amino\documents\asdrevision\exercice1\cellule.c
+	<stdio.h>
+	<stdlib.h>
+	"Cellule.h"
+
+1646249507 c:\users\amino\documents\asdrevision\exercice1\cellule.h
+
+1646249085 source:c:\users\amino\documents\asdrevision\exercice1\file.c
+	<stdio.h>
+	<stdlib.h>
+	"File.h"
+
+1646249983 c:\users\amino\documents\asdrevision\exercice1\file.h
+	"Cellule.h"
+
+1646249047 source:c:\users\amino\documents\asdrevision\exercice1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cellule.h"
+	"Pile.h"
+	"File.h"
+
+1646249493 c:\users\amino\documents\asdrevision\exercice1\pile.h
+	"Cellule.h"
+
+1646249849 source:c:\users\amino\documents\asdrevision\exercice1\pile.c
+	<stdio.h>
+	<stdlib.h>
+	"Pile.h"
+	"Cellule.h"
+
